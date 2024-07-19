@@ -1,9 +1,9 @@
-**Name**:NAMAN BATRA<br>
-**Company**:CODTECH IT SOLUTIONS<br>
-**ID**:CT4WD2872<br>
-**DURATION**: 20th JUNE'24 to 20th JULY'24 (4 weeks)<br>
-**FIELD**:WEB DEVELOPMENT<br>
-**Mentor**:NEELA SANTHOSH KUMAR
+**Name**: NAMAN BATRA<br>
+**Company**: CODTECH IT SOLUTIONS<br>
+**ID**: CT4WD2872<br>
+**DURATION**: 20th JUNE to 20th JULY 2024 (4 weeks)<br>
+**DOMAIN**: WEB DEVELOPMENT<br>
+**Mentor**: NEELA SANTHOSH KUMAR
 
 # Weather Forecast App
 <hr>
