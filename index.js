@@ -1,5 +1,3 @@
-
-
 const userTab = document.querySelector("[data-userWeather]");
 const searchTab = document.querySelector("[data-searchWeather]");
 const forecastTab = document.querySelector("[data-forecast]");
@@ -187,7 +185,7 @@ function renderForecastInfo(forecastInfo) {
     const cityName = document.createElement("h2");
     cityName.textContent = forecastInfo.city.name;
     forecastContainer.appendChild(cityName);
-    
+
     const forecastList = forecastInfo.list.filter(
         (item, index) => index % 8 === 0
     ); // Get forecast for next 5 days
