@@ -15,8 +15,6 @@ This is a simple weather forecast application built using HTML, CSS, and JavaScr
 * Fetch weather data based on user's location using Geolocation API
 * Search weather by city name
 * Switch between current weather and forecast tabs
-* Live Demo
-* Live Demo Link (Replace with your actual demo link)
 
 **Screenshots**
 <img width="1137" alt="Screenshot 2024-07-19 at 3 23 03 PM" src="https://github.com/user-attachments/assets/8dec00df-4c0e-40e9-9465-a4433ea90f2b">
