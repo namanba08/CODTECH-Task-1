@@ -15,6 +15,6 @@ jobs:
 
     - name: Trigger Jenkins job
       run: |
-        curl -X POST http://<your-jenkins-url>/github-webhook/ \
+        curl -X POST http://a0e8-205-254-171-118.ngrok-free.app/github-webhook/ \
           -H "Content-Type: application/json" \
           -d '{"ref": "refs/heads/main"}'
