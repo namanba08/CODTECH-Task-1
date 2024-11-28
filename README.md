@@ -4,7 +4,7 @@
 **DURATION**: 20th JUNE to 20th JULY 2024 (4 weeks)<br>
 **DOMAIN**: WEB DEVELOPMENT<br>
 **Mentor**: NEELA SANTHOSH KUMAR
-
+# hobby project
 # Weather Forecast App
 <hr>
 
